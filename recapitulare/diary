@@ -1,0 +1,294 @@
+ex1
+
+y =
+
+     1     1     1     1     1     1     1
+
+     1
+
+     1
+
+     1
+
+{Undefined function or variable 'del'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex1', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m', 15)" style="font-weight:bold">ex1</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m',15,0)">line 15</a>)
+del(y(6))
+} 
+clear all
+ex1
+     1
+
+     1
+
+     1
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('clear')" style="font-weight:bold">clear</a>
+Argument must contain a string.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex1', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m', 16)" style="font-weight:bold">ex1</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m',16,0)">line 16</a>)
+clear(y(6))
+} 
+help elfun
+  Elementary math functions.
+ 
+  Trigonometric.
+    <a href="matlab:help sin">sin</a>         - Sine.
+    <a href="matlab:help sind">sind</a>        - Sine of argument in degrees.
+    <a href="matlab:help sinh">sinh</a>        - Hyperbolic sine.
+    <a href="matlab:help asin">asin</a>        - Inverse sine.
+    <a href="matlab:help asind">asind</a>       - Inverse sine, result in degrees.
+    <a href="matlab:help asinh">asinh</a>       - Inverse hyperbolic sine.
+    <a href="matlab:help cos">cos</a>         - Cosine.
+    <a href="matlab:help cosd">cosd</a>        - Cosine of argument in degrees.
+    <a href="matlab:help cosh">cosh</a>        - Hyperbolic cosine.
+    <a href="matlab:help acos">acos</a>        - Inverse cosine.
+    <a href="matlab:help acosd">acosd</a>       - Inverse cosine, result in degrees.
+    <a href="matlab:help acosh">acosh</a>       - Inverse hyperbolic cosine.
+    <a href="matlab:help tan">tan</a>         - Tangent.
+    <a href="matlab:help tand">tand</a>        - Tangent of argument in degrees.
+    <a href="matlab:help tanh">tanh</a>        - Hyperbolic tangent.
+    <a href="matlab:help atan">atan</a>        - Inverse tangent.
+    <a href="matlab:help atand">atand</a>       - Inverse tangent, result in degrees.
+    <a href="matlab:help atan2">atan2</a>       - Four quadrant inverse tangent.
+    <a href="matlab:help atan2d">atan2d</a>      - Four quadrant inverse tangent, result in degrees.
+    <a href="matlab:help atanh">atanh</a>       - Inverse hyperbolic tangent.
+    <a href="matlab:help sec">sec</a>         - Secant.
+    <a href="matlab:help secd">secd</a>        - Secant of argument in degrees.
+    <a href="matlab:help sech">sech</a>        - Hyperbolic secant.
+    <a href="matlab:help asec">asec</a>        - Inverse secant.
+    <a href="matlab:help asecd">asecd</a>       - Inverse secant, result in degrees.
+    <a href="matlab:help asech">asech</a>       - Inverse hyperbolic secant.
+    <a href="matlab:help csc">csc</a>         - Cosecant.
+    <a href="matlab:help cscd">cscd</a>        - Cosecant of argument in degrees.
+    <a href="matlab:help csch">csch</a>        - Hyperbolic cosecant.
+    <a href="matlab:help acsc">acsc</a>        - Inverse cosecant.
+    <a href="matlab:help acscd">acscd</a>       - Inverse cosecant, result in degrees.
+    <a href="matlab:help acsch">acsch</a>       - Inverse hyperbolic cosecant.
+    <a href="matlab:help cot">cot</a>         - Cotangent.
+    <a href="matlab:help cotd">cotd</a>        - Cotangent of argument in degrees.
+    <a href="matlab:help coth">coth</a>        - Hyperbolic cotangent.
+    <a href="matlab:help acot">acot</a>        - Inverse cotangent.
+    <a href="matlab:help acotd">acotd</a>       - Inverse cotangent, result in degrees.
+    <a href="matlab:help acoth">acoth</a>       - Inverse hyperbolic cotangent.
+    <a href="matlab:help hypot">hypot</a>       - Square root of sum of squares.
+ 
+  Exponential.
+    <a href="matlab:help exp">exp</a>         - Exponential.
+    <a href="matlab:help expm1">expm1</a>       - Compute exp(x)-1 accurately.
+    <a href="matlab:help log">log</a>         - Natural logarithm.
+    <a href="matlab:help log1p">log1p</a>       - Compute log(1+x) accurately.
+    <a href="matlab:help log10">log10</a>       - Common (base 10) logarithm.
+    <a href="matlab:help log2">log2</a>        - Base 2 logarithm and dissect floating point number.
+    <a href="matlab:help pow2">pow2</a>        - Base 2 power and scale floating point number.
+    <a href="matlab:help realpow">realpow</a>     - Power that will error out on complex result.
+    <a href="matlab:help reallog">reallog</a>     - Natural logarithm of real number.
+    <a href="matlab:help realsqrt">realsqrt</a>    - Square root of number greater than or equal to zero.
+    <a href="matlab:help sqrt">sqrt</a>        - Square root.
+    <a href="matlab:help nthroot">nthroot</a>     - Real n-th root of real numbers.
+    <a href="matlab:help nextpow2">nextpow2</a>    - Next higher power of 2.
+ 
+  Complex.
+    <a href="matlab:help abs">abs</a>         - Absolute value.
+    <a href="matlab:help angle">angle</a>       - Phase angle.
+    <a href="matlab:help complex">complex</a>     - Construct complex data from real and imaginary parts.
+    <a href="matlab:help conj">conj</a>        - Complex conjugate.
+    <a href="matlab:help imag">imag</a>        - Complex imaginary part.
+    <a href="matlab:help real">real</a>        - Complex real part.
+    <a href="matlab:help unwrap">unwrap</a>      - Unwrap phase angle.
+    <a href="matlab:help isreal">isreal</a>      - True for real array.
+    <a href="matlab:help cplxpair">cplxpair</a>    - Sort numbers into complex conjugate pairs.
+ 
+  Rounding and remainder.
+    <a href="matlab:help fix">fix</a>         - Round towards zero.
+    <a href="matlab:help floor">floor</a>       - Round towards minus infinity.
+    <a href="matlab:help ceil">ceil</a>        - Round towards plus infinity.
+    <a href="matlab:help round">round</a>       - Round towards nearest integer.
+    <a href="matlab:help mod">mod</a>         - Modulus (signed remainder after division).
+    <a href="matlab:help rem">rem</a>         - Remainder after division.
+    <a href="matlab:help sign">sign</a>        - Signum.
+
+ex1
+{Error: <a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m',22,8)">File: ex1.m Line: 22 Column: 8
+</a>Unexpected MATLAB expression.
+} 
+ex1
+     1
+
+     1
+
+     1
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('clear')" style="font-weight:bold">clear</a>
+Argument must contain a string.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex1', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m', 17)" style="font-weight:bold">ex1</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m',17,0)">line 17</a>)
+clear(y(6))
+} 
+clear
+ex1
+     1
+
+     1
+
+     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+
+y1 =
+
+     1     1     1     1     1     1
+
+     1     1     1     1     1     1
+
+ex1
+     1
+
+     1
+
+     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     1     1     1     1
+
+clear all
+ex1
+     1
+
+     1
+
+     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     5
+
+ dim dupa stergere
+     1     7
+
+  dim inainte 
+     1     1     1     1     1
+
+ex1
+     1
+
+     1
+
+     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+{Undefined function or variable 'output'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex1', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m', 25)" style="font-weight:bold">ex1</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m',25,0)">line 25</a>)
+output(' ')
+} 
+ex1
+     1
+
+     1
+
+     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     5
+
+ dim dupa stergere
+     1     7
+
+  dim inainte 
+     1     1     1     1     1
+
+ex1
+     1
+
+     1
+
+     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('xor')" style="font-weight:bold">xor</a>
+Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex1', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m', 24)" style="font-weight:bold">ex1</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex1.m',24,0)">line 24</a>)
+xor(y1(6));
+} 
+ex1
+     1
+
+     1
+
+     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     2     3     4     5     6     7     8
+
+     1     1     1     1     1     1     1
+
+     1     6
+
+ dim dupa stergere
+     1     7
+
+  dim inainte 
+     1     1     1     1     1     1
+
+ex2
+{Undefined function or variable 'f'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex2', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex2.m', 2)" style="font-weight:bold">ex2</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex2.m',2,0)">line 2</a>)
+plot(x,f,'-.g')
+} 
+ex2
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('f1', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\f1.m', 2)" style="font-weight:bold">f1</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\f1.m',2,0)">line 2</a>)
+Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex2', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex2.m', 2)" style="font-weight:bold">ex2</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\recapitulare\ex2.m',2,0)">line 2</a>)
+plot(x,f1,'-.g')
+} 
+ex2
+clear all
+ex2

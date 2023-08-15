@@ -1,0 +1,2066 @@
+ex9
+{Error: <a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',6,5)">File: ex9.m Line: 6 Column: 5
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+ex9
+{Error: <a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',6,5)">File: ex9.m Line: 6 Column: 5
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+ex9
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>ezfixfun', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 677)" style="font-weight:bold">ezgraph3>ezfixfun</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',677,0)">line 677</a>)
+The expression sin(x.^2+c*y-x*y+2)+cos(x.^2-3*y.^2+2*x*y-1) must
+only have 2 symbolic variables
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>surfplot', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 535)" style="font-weight:bold">ezgraph3>surfplot</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',535,0)">line 535</a>)
+[F,var] = ezfixfun(F,fargs,flabel);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 48)" style="font-weight:bold">ezgraph3</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',48,0)">line 48</a>)
+   [dummy,h] =
+   surfplot(f,domain,surfstyle,cax,Npts,fixdomain,flabel,fargs);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezcontour', 'C:\Program Files\toolbox\matlab\specgraph\ezcontour.m', 55)" style="font-weight:bold">ezcontour</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezcontour.m',55,0)">line 55</a>)
+    h = ezgraph3('contour',args{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex9', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m', 5)" style="font-weight:bold">ex9</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',5,0)">line 5</a>)
+ezcontour(f,x,y)
+} 
+ex9
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>ezfixfun', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 677)" style="font-weight:bold">ezgraph3>ezfixfun</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',677,0)">line 677</a>)
+The expression sin(x.^2+c*y-x*y+2)+cos(x.^2-3*y.^2+2*x*y-1) must
+only have 2 symbolic variables
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>surfplot', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 535)" style="font-weight:bold">ezgraph3>surfplot</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',535,0)">line 535</a>)
+[F,var] = ezfixfun(F,fargs,flabel);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 48)" style="font-weight:bold">ezgraph3</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',48,0)">line 48</a>)
+   [dummy,h] =
+   surfplot(f,domain,surfstyle,cax,Npts,fixdomain,flabel,fargs);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezcontour', 'C:\Program Files\toolbox\matlab\specgraph\ezcontour.m', 55)" style="font-weight:bold">ezcontour</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezcontour.m',55,0)">line 55</a>)
+    h = ezgraph3('contour',args{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex9', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m', 5)" style="font-weight:bold">ex9</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',5,0)">line 5</a>)
+ezcontour(f,[-4 4])
+} 
+ex9
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>ezfixfun', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 677)" style="font-weight:bold">ezgraph3>ezfixfun</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',677,0)">line 677</a>)
+The expression sin(x.^2+c*y-x*y+2)+cos(x.^2-3*y.^2+2*x*y-1) must
+only have 2 symbolic variables
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>surfplot', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 535)" style="font-weight:bold">ezgraph3>surfplot</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',535,0)">line 535</a>)
+[F,var] = ezfixfun(F,fargs,flabel);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 48)" style="font-weight:bold">ezgraph3</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',48,0)">line 48</a>)
+   [dummy,h] =
+   surfplot(f,domain,surfstyle,cax,Npts,fixdomain,flabel,fargs);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezcontour', 'C:\Program Files\toolbox\matlab\specgraph\ezcontour.m', 55)" style="font-weight:bold">ezcontour</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezcontour.m',55,0)">line 55</a>)
+    h = ezgraph3('contour',args{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex9', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m', 5)" style="font-weight:bold">ex9</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',5,0)">line 5</a>)
+ezcontour(f,[-4,4])
+} 
+ex9
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>ezfixfun', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 677)" style="font-weight:bold">ezgraph3>ezfixfun</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',677,0)">line 677</a>)
+The expression sin(x.^2+c*y-x*y+2)+cos(x.^2-3*y.^2+2*x*y-1) must
+only have 2 symbolic variables
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>surfplot', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 535)" style="font-weight:bold">ezgraph3>surfplot</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',535,0)">line 535</a>)
+[F,var] = ezfixfun(F,fargs,flabel);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 48)" style="font-weight:bold">ezgraph3</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',48,0)">line 48</a>)
+   [dummy,h] =
+   surfplot(f,domain,surfstyle,cax,Npts,fixdomain,flabel,fargs);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezcontour', 'C:\Program Files\toolbox\matlab\specgraph\ezcontour.m', 55)" style="font-weight:bold">ezcontour</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezcontour.m',55,0)">line 55</a>)
+    h = ezgraph3('contour',args{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex9', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m', 5)" style="font-weight:bold">ex9</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',5,0)">line 5</a>)
+ezcontour(f,[-4,4])
+} 
+ex9
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>ezfixfun', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 677)" style="font-weight:bold">ezgraph3>ezfixfun</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',677,0)">line 677</a>)
+The expression sin(x.^2+c*y-x*y+2)+cos(x.^2-3*y.^2+2*x*y-1) must
+only have 2 symbolic variables
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>surfplot', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 535)" style="font-weight:bold">ezgraph3>surfplot</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',535,0)">line 535</a>)
+[F,var] = ezfixfun(F,fargs,flabel);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 48)" style="font-weight:bold">ezgraph3</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',48,0)">line 48</a>)
+   [dummy,h] =
+   surfplot(f,domain,surfstyle,cax,Npts,fixdomain,flabel,fargs);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezcontour', 'C:\Program Files\toolbox\matlab\specgraph\ezcontour.m', 55)" style="font-weight:bold">ezcontour</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezcontour.m',55,0)">line 55</a>)
+    h = ezgraph3('contour',args{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex9', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m', 5)" style="font-weight:bold">ex9</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',5,0)">line 5</a>)
+ezcontour('sin(x.^2+c*y-x*y+2)+cos(x.^2-3*y.^2+2*x*y-1)',[-4,4])
+} 
+ex9
+{Undefined function or variable 'c'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex9', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m', 4)" style="font-weight:bold">ex9</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',4,0)">line 4</a>)
+f= sin(x.^2+c*y-x*y+2)+cos(x.^2-3*y.^2+2*x*y-1);
+} 
+ex9
+{Undefined function or variable 'c'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex9', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m', 4)" style="font-weight:bold">ex9</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',4,0)">line 4</a>)
+f= sin(x.^2+c*y-x*y+2)+cos(x.^2-3*y.^2+2*x*y-1);
+} 
+ex9
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Inner matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex9', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m', 4)" style="font-weight:bold">ex9</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',4,0)">line 4</a>)
+f= sin(x.^2+x*y-x*y+2)+cos(x.^2-3*y.^2+2*x*y-1);
+} 
+ex9
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezfcnchk', 'C:\Program Files\toolbox\matlab\specgraph\private\ezfcnchk.m', 66)" style="font-weight:bold">ezfcnchk</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\private\ezfcnchk.m',66,0)">line 66</a>)
+FUN must be a function, a valid string expression, or an inline
+function object.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3>parse_inputs', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 351)" style="font-weight:bold">ezgraph3>parse_inputs</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',351,0)">line 351</a>)
+[fout,flabel,V] = ezfcnchk(varargin{1},1);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezgraph3', 'C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m', 42)" style="font-weight:bold">ezgraph3</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezgraph3.m',42,0)">line 42</a>)
+[ezflag,f,domain,domstyle,Npts,flabel,fargs,fixdomain] =
+parse_inputs(args{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ezcontour', 'C:\Program Files\toolbox\matlab\specgraph\ezcontour.m', 55)" style="font-weight:bold">ezcontour</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\specgraph\ezcontour.m',55,0)">line 55</a>)
+    h = ezgraph3('contour',args{:});
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex9', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m', 5)" style="font-weight:bold">ex9</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',5,0)">line 5</a>)
+ezcontour(f,[-4,4])
+} 
+ex9
+{Undefined function or variable 'titlte'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex9', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m', 7)" style="font-weight:bold">ex9</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',7,0)">line 7</a>)
+titlte('Graficul functiei f')
+} 
+ex9
+ex9
+{Error: <a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex9.m',4,52)">File: ex9.m Line: 4 Column: 52
+</a>Unbalanced or unexpected parenthesis or bracket.
+} 
+ex9
+ex2
+
+produs =
+
+     2     4   -10   -17    22    43   -77    33
+
+
+radacini =
+
+  -2.8063 + 0.0000i
+  -1.6462 + 1.2431i
+  -1.6462 - 1.2431i
+   0.9032 + 0.5033i
+   0.9032 - 0.5033i
+   1.2925 + 0.0000i
+   1.0000 + 0.0000i
+
+ex11
+
+r =
+
+     0    -2     5     1     7
+
+
+P =
+
+    -1     9     5
+     3    10    -5
+
+ex11
+
+r =
+
+     0    -2     5     1     7
+
+
+P =
+
+    -1     9     5
+     3    10    -5
+
+
+f =
+
+    -8   -84    42    -6  -498
+
+
+g =
+
+         -18       -2438          42
+          46       -4308       -1458
+
+ex12
+{Undefined function or variable 'x'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex12', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex12.m', 3)" style="font-weight:bold">ex12</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex12.m',3,0)">line 3</a>)
+y=exp(cos(x))
+} 
+ex12
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    2.7047    2.6646    2.5995    2.5120    2.4051
+
+  Columns 7 through 12
+
+    2.2826    2.1487    2.0071    1.8619    1.7165    1.5740
+
+  Columns 13 through 18
+
+    1.4367    1.3067    1.1853    1.0733    0.9712    0.8791
+
+  Columns 19 through 24
+
+    0.7968    0.7238    0.6596    0.6036    0.5552    0.5136
+
+  Columns 25 through 30
+
+    0.4784    0.4488    0.4245    0.4049    0.3898    0.3787
+
+  Columns 31 through 36
+
+    0.3716    0.3682    0.3685    0.3725    0.3803    0.3920
+
+  Columns 37 through 42
+
+    0.4079    0.4282    0.4534    0.4839    0.5201    0.5628
+
+  Columns 43 through 48
+
+    0.6125    0.6698    0.7354    0.8099    0.8939    0.9877
+
+  Columns 49 through 54
+
+    1.0914    1.2050    1.3280    1.4593    1.5976    1.7409
+
+  Columns 55 through 60
+
+    1.8864    2.0313    2.1718    2.3042    2.4242    2.5281
+
+  Columns 61 through 66
+
+    2.6121    2.6732    2.7089    2.7179    2.6998    2.6554
+
+  Columns 67 through 72
+
+    2.5863    2.4952    2.3855    2.2608    2.1253    1.9829
+
+  Columns 73 through 78
+
+    1.8374    1.6923    1.5505    1.4143    1.2856    1.1658
+
+  Columns 79 through 84
+
+    1.0554    0.9550    0.8646    0.7838    0.7124    0.6496
+
+  Columns 85 through 90
+
+    0.5949    0.5477    0.5073    0.4730    0.4444    0.4209
+
+  Columns 91 through 96
+
+    0.4021    0.3876    0.3773    0.3708    0.3680    0.3689
+
+  Columns 97 through 102
+
+    0.3736    0.3820    0.3944    0.4110    0.4321    0.4581
+
+  Columns 103 through 108
+
+    0.4896    0.5269    0.5706    0.6216    0.6802    0.7473
+
+  Columns 109 through 114
+
+    0.8234    0.9090    1.0044    1.1099    1.2251    1.3495
+
+  Columns 115 through 120
+
+    1.4821    1.6214    1.7652    1.9109    2.0553    2.1948
+
+  Columns 121 through 126
+
+    2.3253    2.4429    2.5437    2.6241    2.6810    2.7123
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('griddedInterpolant')" style="font-weight:bold">griddedInterpolant</a>
+Interpolation requires at least two sample points in each
+dimension.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interp1', 'C:\Program Files\toolbox\matlab\polyfun\interp1.p', 186)" style="font-weight:bold">interp1</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\polyfun\interp1.p',186,0)">line 186</a>)
+        F = griddedInterpolant(X,V,method);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex12', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex12.m', 6)" style="font-weight:bold">ex12</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex12.m',6,0)">line 6</a>)
+interp1(-2*pi,2*pi,y,'linear')
+} 
+ex12
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    2.7047    2.6646    2.5995    2.5120    2.4051
+
+  Columns 7 through 12
+
+    2.2826    2.1487    2.0071    1.8619    1.7165    1.5740
+
+  Columns 13 through 18
+
+    1.4367    1.3067    1.1853    1.0733    0.9712    0.8791
+
+  Columns 19 through 24
+
+    0.7968    0.7238    0.6596    0.6036    0.5552    0.5136
+
+  Columns 25 through 30
+
+    0.4784    0.4488    0.4245    0.4049    0.3898    0.3787
+
+  Columns 31 through 36
+
+    0.3716    0.3682    0.3685    0.3725    0.3803    0.3920
+
+  Columns 37 through 42
+
+    0.4079    0.4282    0.4534    0.4839    0.5201    0.5628
+
+  Columns 43 through 48
+
+    0.6125    0.6698    0.7354    0.8099    0.8939    0.9877
+
+  Columns 49 through 54
+
+    1.0914    1.2050    1.3280    1.4593    1.5976    1.7409
+
+  Columns 55 through 60
+
+    1.8864    2.0313    2.1718    2.3042    2.4242    2.5281
+
+  Columns 61 through 66
+
+    2.6121    2.6732    2.7089    2.7179    2.6998    2.6554
+
+  Columns 67 through 72
+
+    2.5863    2.4952    2.3855    2.2608    2.1253    1.9829
+
+  Columns 73 through 78
+
+    1.8374    1.6923    1.5505    1.4143    1.2856    1.1658
+
+  Columns 79 through 84
+
+    1.0554    0.9550    0.8646    0.7838    0.7124    0.6496
+
+  Columns 85 through 90
+
+    0.5949    0.5477    0.5073    0.4730    0.4444    0.4209
+
+  Columns 91 through 96
+
+    0.4021    0.3876    0.3773    0.3708    0.3680    0.3689
+
+  Columns 97 through 102
+
+    0.3736    0.3820    0.3944    0.4110    0.4321    0.4581
+
+  Columns 103 through 108
+
+    0.4896    0.5269    0.5706    0.6216    0.6802    0.7473
+
+  Columns 109 through 114
+
+    0.8234    0.9090    1.0044    1.1099    1.2251    1.3495
+
+  Columns 115 through 120
+
+    1.4821    1.6214    1.7652    1.9109    2.0553    2.1948
+
+  Columns 121 through 126
+
+    2.3253    2.4429    2.5437    2.6241    2.6810    2.7123
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('griddedInterpolant')" style="font-weight:bold">griddedInterpolant</a>
+Interpolation requires at least two sample points in each
+dimension.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interp1', 'C:\Program Files\toolbox\matlab\polyfun\interp1.p', 186)" style="font-weight:bold">interp1</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\polyfun\interp1.p',186,0)">line 186</a>)
+        F = griddedInterpolant(X,V,method);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex12', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex12.m', 6)" style="font-weight:bold">ex12</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex12.m',6,0)">line 6</a>)
+interp1(-2*pi,2*pi,y,'linear')
+} 
+ex12
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    2.7047    2.6646    2.5995    2.5120    2.4051
+
+  Columns 7 through 12
+
+    2.2826    2.1487    2.0071    1.8619    1.7165    1.5740
+
+  Columns 13 through 18
+
+    1.4367    1.3067    1.1853    1.0733    0.9712    0.8791
+
+  Columns 19 through 24
+
+    0.7968    0.7238    0.6596    0.6036    0.5552    0.5136
+
+  Columns 25 through 30
+
+    0.4784    0.4488    0.4245    0.4049    0.3898    0.3787
+
+  Columns 31 through 36
+
+    0.3716    0.3682    0.3685    0.3725    0.3803    0.3920
+
+  Columns 37 through 42
+
+    0.4079    0.4282    0.4534    0.4839    0.5201    0.5628
+
+  Columns 43 through 48
+
+    0.6125    0.6698    0.7354    0.8099    0.8939    0.9877
+
+  Columns 49 through 54
+
+    1.0914    1.2050    1.3280    1.4593    1.5976    1.7409
+
+  Columns 55 through 60
+
+    1.8864    2.0313    2.1718    2.3042    2.4242    2.5281
+
+  Columns 61 through 66
+
+    2.6121    2.6732    2.7089    2.7179    2.6998    2.6554
+
+  Columns 67 through 72
+
+    2.5863    2.4952    2.3855    2.2608    2.1253    1.9829
+
+  Columns 73 through 78
+
+    1.8374    1.6923    1.5505    1.4143    1.2856    1.1658
+
+  Columns 79 through 84
+
+    1.0554    0.9550    0.8646    0.7838    0.7124    0.6496
+
+  Columns 85 through 90
+
+    0.5949    0.5477    0.5073    0.4730    0.4444    0.4209
+
+  Columns 91 through 96
+
+    0.4021    0.3876    0.3773    0.3708    0.3680    0.3689
+
+  Columns 97 through 102
+
+    0.3736    0.3820    0.3944    0.4110    0.4321    0.4581
+
+  Columns 103 through 108
+
+    0.4896    0.5269    0.5706    0.6216    0.6802    0.7473
+
+  Columns 109 through 114
+
+    0.8234    0.9090    1.0044    1.1099    1.2251    1.3495
+
+  Columns 115 through 120
+
+    1.4821    1.6214    1.7652    1.9109    2.0553    2.1948
+
+  Columns 121 through 126
+
+    2.3253    2.4429    2.5437    2.6241    2.6810    2.7123
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('griddedInterpolant')" style="font-weight:bold">griddedInterpolant</a>
+Interpolation requires at least two sample points in each
+dimension.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('interp1', 'C:\Program Files\toolbox\matlab\polyfun\interp1.p', 186)" style="font-weight:bold">interp1</a> (<a href="matlab: opentoline('C:\Program Files\toolbox\matlab\polyfun\interp1.p',186,0)">line 186</a>)
+        F = griddedInterpolant(X,V,method);
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex12', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex12.m', 6)" style="font-weight:bold">ex12</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex12.m',6,0)">line 6</a>)
+interp1(-2*pi,2*pi,y,'linear')
+} 
+ex12
+
+xi =
+
+  Columns 1 through 6
+
+   -4.0000   -3.5000   -2.0000         0    1.0000    3.5000
+
+  Column 7
+
+    4.0000
+
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    2.7047    2.6646    2.5995    2.5120    2.4051
+
+  Columns 7 through 12
+
+    2.2826    2.1487    2.0071    1.8619    1.7165    1.5740
+
+  Columns 13 through 18
+
+    1.4367    1.3067    1.1853    1.0733    0.9712    0.8791
+
+  Columns 19 through 24
+
+    0.7968    0.7238    0.6596    0.6036    0.5552    0.5136
+
+  Columns 25 through 30
+
+    0.4784    0.4488    0.4245    0.4049    0.3898    0.3787
+
+  Columns 31 through 36
+
+    0.3716    0.3682    0.3685    0.3725    0.3803    0.3920
+
+  Columns 37 through 42
+
+    0.4079    0.4282    0.4534    0.4839    0.5201    0.5628
+
+  Columns 43 through 48
+
+    0.6125    0.6698    0.7354    0.8099    0.8939    0.9877
+
+  Columns 49 through 54
+
+    1.0914    1.2050    1.3280    1.4593    1.5976    1.7409
+
+  Columns 55 through 60
+
+    1.8864    2.0313    2.1718    2.3042    2.4242    2.5281
+
+  Columns 61 through 66
+
+    2.6121    2.6732    2.7089    2.7179    2.6998    2.6554
+
+  Columns 67 through 72
+
+    2.5863    2.4952    2.3855    2.2608    2.1253    1.9829
+
+  Columns 73 through 78
+
+    1.8374    1.6923    1.5505    1.4143    1.2856    1.1658
+
+  Columns 79 through 84
+
+    1.0554    0.9550    0.8646    0.7838    0.7124    0.6496
+
+  Columns 85 through 90
+
+    0.5949    0.5477    0.5073    0.4730    0.4444    0.4209
+
+  Columns 91 through 96
+
+    0.4021    0.3876    0.3773    0.3708    0.3680    0.3689
+
+  Columns 97 through 102
+
+    0.3736    0.3820    0.3944    0.4110    0.4321    0.4581
+
+  Columns 103 through 108
+
+    0.4896    0.5269    0.5706    0.6216    0.6802    0.7473
+
+  Columns 109 through 114
+
+    0.8234    0.9090    1.0044    1.1099    1.2251    1.3495
+
+  Columns 115 through 120
+
+    1.4821    1.6214    1.7652    1.9109    2.0553    2.1948
+
+  Columns 121 through 126
+
+    2.3253    2.4429    2.5437    2.6241    2.6810    2.7123
+
+
+ans =
+
+  Columns 1 through 6
+
+    0.5206    0.3923    0.6601    2.7164    1.7167    0.3923
+
+  Column 7
+
+    0.5206
+
+ex12
+
+xi =
+
+  Columns 1 through 6
+
+   -4.0000   -3.5000   -2.0000         0    1.0000    3.5000
+
+  Column 7
+
+    4.0000
+
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    2.7047    2.6646    2.5995    2.5120    2.4051
+
+  Columns 7 through 12
+
+    2.2826    2.1487    2.0071    1.8619    1.7165    1.5740
+
+  Columns 13 through 18
+
+    1.4367    1.3067    1.1853    1.0733    0.9712    0.8791
+
+  Columns 19 through 24
+
+    0.7968    0.7238    0.6596    0.6036    0.5552    0.5136
+
+  Columns 25 through 30
+
+    0.4784    0.4488    0.4245    0.4049    0.3898    0.3787
+
+  Columns 31 through 36
+
+    0.3716    0.3682    0.3685    0.3725    0.3803    0.3920
+
+  Columns 37 through 42
+
+    0.4079    0.4282    0.4534    0.4839    0.5201    0.5628
+
+  Columns 43 through 48
+
+    0.6125    0.6698    0.7354    0.8099    0.8939    0.9877
+
+  Columns 49 through 54
+
+    1.0914    1.2050    1.3280    1.4593    1.5976    1.7409
+
+  Columns 55 through 60
+
+    1.8864    2.0313    2.1718    2.3042    2.4242    2.5281
+
+  Columns 61 through 66
+
+    2.6121    2.6732    2.7089    2.7179    2.6998    2.6554
+
+  Columns 67 through 72
+
+    2.5863    2.4952    2.3855    2.2608    2.1253    1.9829
+
+  Columns 73 through 78
+
+    1.8374    1.6923    1.5505    1.4143    1.2856    1.1658
+
+  Columns 79 through 84
+
+    1.0554    0.9550    0.8646    0.7838    0.7124    0.6496
+
+  Columns 85 through 90
+
+    0.5949    0.5477    0.5073    0.4730    0.4444    0.4209
+
+  Columns 91 through 96
+
+    0.4021    0.3876    0.3773    0.3708    0.3680    0.3689
+
+  Columns 97 through 102
+
+    0.3736    0.3820    0.3944    0.4110    0.4321    0.4581
+
+  Columns 103 through 108
+
+    0.4896    0.5269    0.5706    0.6216    0.6802    0.7473
+
+  Columns 109 through 114
+
+    0.8234    0.9090    1.0044    1.1099    1.2251    1.3495
+
+  Columns 115 through 120
+
+    1.4821    1.6214    1.7652    1.9109    2.0553    2.1948
+
+  Columns 121 through 126
+
+    2.3253    2.4429    2.5437    2.6241    2.6810    2.7123
+
+
+z =
+
+  Columns 1 through 6
+
+    0.5206    0.3923    0.6601    2.7164    1.7167    0.3923
+
+  Column 7
+
+    0.5206
+
+ex12
+
+xi =
+
+  Columns 1 through 6
+
+   -4.0000   -3.5000   -2.0000         0    1.0000    3.5000
+
+  Column 7
+
+    4.0000
+
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    2.7047    2.6646    2.5995    2.5120    2.4051
+
+  Columns 7 through 12
+
+    2.2826    2.1487    2.0071    1.8619    1.7165    1.5740
+
+  Columns 13 through 18
+
+    1.4367    1.3067    1.1853    1.0733    0.9712    0.8791
+
+  Columns 19 through 24
+
+    0.7968    0.7238    0.6596    0.6036    0.5552    0.5136
+
+  Columns 25 through 30
+
+    0.4784    0.4488    0.4245    0.4049    0.3898    0.3787
+
+  Columns 31 through 36
+
+    0.3716    0.3682    0.3685    0.3725    0.3803    0.3920
+
+  Columns 37 through 42
+
+    0.4079    0.4282    0.4534    0.4839    0.5201    0.5628
+
+  Columns 43 through 48
+
+    0.6125    0.6698    0.7354    0.8099    0.8939    0.9877
+
+  Columns 49 through 54
+
+    1.0914    1.2050    1.3280    1.4593    1.5976    1.7409
+
+  Columns 55 through 60
+
+    1.8864    2.0313    2.1718    2.3042    2.4242    2.5281
+
+  Columns 61 through 66
+
+    2.6121    2.6732    2.7089    2.7179    2.6998    2.6554
+
+  Columns 67 through 72
+
+    2.5863    2.4952    2.3855    2.2608    2.1253    1.9829
+
+  Columns 73 through 78
+
+    1.8374    1.6923    1.5505    1.4143    1.2856    1.1658
+
+  Columns 79 through 84
+
+    1.0554    0.9550    0.8646    0.7838    0.7124    0.6496
+
+  Columns 85 through 90
+
+    0.5949    0.5477    0.5073    0.4730    0.4444    0.4209
+
+  Columns 91 through 96
+
+    0.4021    0.3876    0.3773    0.3708    0.3680    0.3689
+
+  Columns 97 through 102
+
+    0.3736    0.3820    0.3944    0.4110    0.4321    0.4581
+
+  Columns 103 through 108
+
+    0.4896    0.5269    0.5706    0.6216    0.6802    0.7473
+
+  Columns 109 through 114
+
+    0.8234    0.9090    1.0044    1.1099    1.2251    1.3495
+
+  Columns 115 through 120
+
+    1.4821    1.6214    1.7652    1.9109    2.0553    2.1948
+
+  Columns 121 through 126
+
+    2.3253    2.4429    2.5437    2.6241    2.6810    2.7123
+
+
+z =
+
+  Columns 1 through 6
+
+    0.5206    0.3923    0.6601    2.7164    1.7167    0.3923
+
+  Column 7
+
+    0.5206
+
+ex12
+
+xi =
+
+  Columns 1 through 6
+
+   -4.0000   -3.5000   -2.0000         0    1.0000    3.5000
+
+  Column 7
+
+    4.0000
+
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    2.7047    2.6646    2.5995    2.5120    2.4051
+
+  Columns 7 through 12
+
+    2.2826    2.1487    2.0071    1.8619    1.7165    1.5740
+
+  Columns 13 through 18
+
+    1.4367    1.3067    1.1853    1.0733    0.9712    0.8791
+
+  Columns 19 through 24
+
+    0.7968    0.7238    0.6596    0.6036    0.5552    0.5136
+
+  Columns 25 through 30
+
+    0.4784    0.4488    0.4245    0.4049    0.3898    0.3787
+
+  Columns 31 through 36
+
+    0.3716    0.3682    0.3685    0.3725    0.3803    0.3920
+
+  Columns 37 through 42
+
+    0.4079    0.4282    0.4534    0.4839    0.5201    0.5628
+
+  Columns 43 through 48
+
+    0.6125    0.6698    0.7354    0.8099    0.8939    0.9877
+
+  Columns 49 through 54
+
+    1.0914    1.2050    1.3280    1.4593    1.5976    1.7409
+
+  Columns 55 through 60
+
+    1.8864    2.0313    2.1718    2.3042    2.4242    2.5281
+
+  Columns 61 through 66
+
+    2.6121    2.6732    2.7089    2.7179    2.6998    2.6554
+
+  Columns 67 through 72
+
+    2.5863    2.4952    2.3855    2.2608    2.1253    1.9829
+
+  Columns 73 through 78
+
+    1.8374    1.6923    1.5505    1.4143    1.2856    1.1658
+
+  Columns 79 through 84
+
+    1.0554    0.9550    0.8646    0.7838    0.7124    0.6496
+
+  Columns 85 through 90
+
+    0.5949    0.5477    0.5073    0.4730    0.4444    0.4209
+
+  Columns 91 through 96
+
+    0.4021    0.3876    0.3773    0.3708    0.3680    0.3689
+
+  Columns 97 through 102
+
+    0.3736    0.3820    0.3944    0.4110    0.4321    0.4581
+
+  Columns 103 through 108
+
+    0.4896    0.5269    0.5706    0.6216    0.6802    0.7473
+
+  Columns 109 through 114
+
+    0.8234    0.9090    1.0044    1.1099    1.2251    1.3495
+
+  Columns 115 through 120
+
+    1.4821    1.6214    1.7652    1.9109    2.0553    2.1948
+
+  Columns 121 through 126
+
+    2.3253    2.4429    2.5437    2.6241    2.6810    2.7123
+
+
+z =
+
+  Columns 1 through 6
+
+    0.5206    0.3923    0.6601    2.7164    1.7167    0.3923
+
+  Column 7
+
+    0.5206
+
+ex12
+
+xi =
+
+  Columns 1 through 6
+
+   -4.0000   -3.5000   -2.0000         0    1.0000    3.5000
+
+  Column 7
+
+    4.0000
+
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    2.7047    2.6646    2.5995    2.5120    2.4051
+
+  Columns 7 through 12
+
+    2.2826    2.1487    2.0071    1.8619    1.7165    1.5740
+
+  Columns 13 through 18
+
+    1.4367    1.3067    1.1853    1.0733    0.9712    0.8791
+
+  Columns 19 through 24
+
+    0.7968    0.7238    0.6596    0.6036    0.5552    0.5136
+
+  Columns 25 through 30
+
+    0.4784    0.4488    0.4245    0.4049    0.3898    0.3787
+
+  Columns 31 through 36
+
+    0.3716    0.3682    0.3685    0.3725    0.3803    0.3920
+
+  Columns 37 through 42
+
+    0.4079    0.4282    0.4534    0.4839    0.5201    0.5628
+
+  Columns 43 through 48
+
+    0.6125    0.6698    0.7354    0.8099    0.8939    0.9877
+
+  Columns 49 through 54
+
+    1.0914    1.2050    1.3280    1.4593    1.5976    1.7409
+
+  Columns 55 through 60
+
+    1.8864    2.0313    2.1718    2.3042    2.4242    2.5281
+
+  Columns 61 through 66
+
+    2.6121    2.6732    2.7089    2.7179    2.6998    2.6554
+
+  Columns 67 through 72
+
+    2.5863    2.4952    2.3855    2.2608    2.1253    1.9829
+
+  Columns 73 through 78
+
+    1.8374    1.6923    1.5505    1.4143    1.2856    1.1658
+
+  Columns 79 through 84
+
+    1.0554    0.9550    0.8646    0.7838    0.7124    0.6496
+
+  Columns 85 through 90
+
+    0.5949    0.5477    0.5073    0.4730    0.4444    0.4209
+
+  Columns 91 through 96
+
+    0.4021    0.3876    0.3773    0.3708    0.3680    0.3689
+
+  Columns 97 through 102
+
+    0.3736    0.3820    0.3944    0.4110    0.4321    0.4581
+
+  Columns 103 through 108
+
+    0.4896    0.5269    0.5706    0.6216    0.6802    0.7473
+
+  Columns 109 through 114
+
+    0.8234    0.9090    1.0044    1.1099    1.2251    1.3495
+
+  Columns 115 through 120
+
+    1.4821    1.6214    1.7652    1.9109    2.0553    2.1948
+
+  Columns 121 through 126
+
+    2.3253    2.4429    2.5437    2.6241    2.6810    2.7123
+
+
+z =
+
+  Columns 1 through 6
+
+    0.5206    0.3923    0.6601    2.7164    1.7167    0.3923
+
+  Column 7
+
+    0.5206
+
+ex13
+
+y =
+
+    -3     4     5    -2     7     0     3    -1     8
+
+
+xi =
+
+  Columns 1 through 6
+
+   -2.0000   -1.5000         0    1.5000    2.0000    3.5000
+
+  Columns 7 through 8
+
+    4.5000    6.0000
+
+
+z =
+
+  Columns 1 through 6
+
+   -3.0000    0.3518    5.0000    2.6297    7.0000    0.9180
+
+  Columns 7 through 8
+
+    1.5273    8.0000
+
+ex14
+
+xi =
+
+    -2    -1     0     1     2     3     4
+
+
+yi =
+
+  Columns 1 through 6
+
+    1.4400    1.6900    1.3700    1.4600    1.7700    2.0100
+
+  Column 7
+
+    1.8800
+
+
+c =
+
+    0.4500    1.4333
+
+ex14
+
+xi =
+
+    -2    -1     0     1     2     3     4
+
+
+yi =
+
+  Columns 1 through 6
+
+    1.4400    1.6900    1.3700    1.4600    1.7700    2.0100
+
+  Column 7
+
+    1.8800
+
+
+c =
+
+    0.4500    1.4333
+
+ex14
+
+xi =
+
+    -2    -1     0     1     2     3     4
+
+
+yi =
+
+  Columns 1 through 6
+
+    1.4400    1.6900    1.3700    1.4600    1.7700    2.0100
+
+  Column 7
+
+    1.8800
+
+
+c =
+
+    0.4500    1.4333
+
+ex14
+
+xi =
+
+    -2    -1     0     1     2     3     4
+
+
+yi =
+
+  Columns 1 through 6
+
+    1.4400    1.6900    1.3700    1.4600    1.7700    2.0100
+
+  Column 7
+
+    1.8800
+
+
+c =
+
+    0.4500    1.4333
+
+ex9
+ex11
+
+r =
+
+     0    -2     5     1     7
+
+
+P =
+
+    -1     9     5
+     3    10    -5
+
+
+f =
+
+    -8   -84    42    -6  -498
+
+
+g =
+
+         -18       -2438          42
+          46       -4308       -1458
+
+ex10
+ 
+ans =
+ 
+2*x^3 + 4*x^2 - 11
+ 
+
+produs =
+
+     2     4   -10   -17    22    43   -77    33
+
+
+radacini =
+
+  -2.8063 + 0.0000i
+  -1.6462 + 1.2431i
+  -1.6462 - 1.2431i
+   0.9032 + 0.5033i
+   0.9032 - 0.5033i
+   1.2925 + 0.0000i
+   1.0000 + 0.0000i
+
+ex11
+
+r =
+
+     0    -2     5     1     7
+
+
+P =
+
+    -1     9     5
+     3    10    -5
+
+
+f =
+
+    -8   -84    42    -6  -498
+
+
+g =
+
+         -18       -2438          42
+          46       -4308       -1458
+
+ex11
+
+r =
+
+     0    -2     5     1     7
+
+
+P =
+
+    -1     9     5
+     3    10    -5
+
+ 
+ans =
+ 
+- x^4 + 6*x^3 - 3*x^2 - 8
+ 
+
+f =
+
+    -8   -84    42    -6  -498
+
+
+g =
+
+         -18       -2438          42
+          46       -4308       -1458
+
+ex12
+
+xi =
+
+  Columns 1 through 6
+
+   -4.0000   -3.5000   -2.0000         0    1.0000    3.5000
+
+  Column 7
+
+    4.0000
+
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    2.7047    2.6646    2.5995    2.5120    2.4051
+
+  Columns 7 through 12
+
+    2.2826    2.1487    2.0071    1.8619    1.7165    1.5740
+
+  Columns 13 through 18
+
+    1.4367    1.3067    1.1853    1.0733    0.9712    0.8791
+
+  Columns 19 through 24
+
+    0.7968    0.7238    0.6596    0.6036    0.5552    0.5136
+
+  Columns 25 through 30
+
+    0.4784    0.4488    0.4245    0.4049    0.3898    0.3787
+
+  Columns 31 through 36
+
+    0.3716    0.3682    0.3685    0.3725    0.3803    0.3920
+
+  Columns 37 through 42
+
+    0.4079    0.4282    0.4534    0.4839    0.5201    0.5628
+
+  Columns 43 through 48
+
+    0.6125    0.6698    0.7354    0.8099    0.8939    0.9877
+
+  Columns 49 through 54
+
+    1.0914    1.2050    1.3280    1.4593    1.5976    1.7409
+
+  Columns 55 through 60
+
+    1.8864    2.0313    2.1718    2.3042    2.4242    2.5281
+
+  Columns 61 through 66
+
+    2.6121    2.6732    2.7089    2.7179    2.6998    2.6554
+
+  Columns 67 through 72
+
+    2.5863    2.4952    2.3855    2.2608    2.1253    1.9829
+
+  Columns 73 through 78
+
+    1.8374    1.6923    1.5505    1.4143    1.2856    1.1658
+
+  Columns 79 through 84
+
+    1.0554    0.9550    0.8646    0.7838    0.7124    0.6496
+
+  Columns 85 through 90
+
+    0.5949    0.5477    0.5073    0.4730    0.4444    0.4209
+
+  Columns 91 through 96
+
+    0.4021    0.3876    0.3773    0.3708    0.3680    0.3689
+
+  Columns 97 through 102
+
+    0.3736    0.3820    0.3944    0.4110    0.4321    0.4581
+
+  Columns 103 through 108
+
+    0.4896    0.5269    0.5706    0.6216    0.6802    0.7473
+
+  Columns 109 through 114
+
+    0.8234    0.9090    1.0044    1.1099    1.2251    1.3495
+
+  Columns 115 through 120
+
+    1.4821    1.6214    1.7652    1.9109    2.0553    2.1948
+
+  Columns 121 through 126
+
+    2.3253    2.4429    2.5437    2.6241    2.6810    2.7123
+
+
+z =
+
+  Columns 1 through 6
+
+    0.5206    0.3923    0.6601    2.7164    1.7167    0.3923
+
+  Column 7
+
+    0.5206
+
+ex12
+
+xi =
+
+  Columns 1 through 6
+
+   -4.0000   -3.5000   -2.0000         0    1.0000    3.5000
+
+  Column 7
+
+    4.0000
+
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    1.7165    0.6596    0.3716    0.5201    1.3280
+
+  Columns 7 through 12
+
+    2.6121    2.1253    0.8646    0.4021    0.4321    1.0044
+
+  Column 13
+
+    2.3253
+
+
+z =
+
+  Columns 1 through 6
+
+    0.5780    0.4340    0.7489    2.4743    1.7683    0.4256
+
+  Column 7
+
+    0.5942
+
+ex12
+
+xi =
+
+  Columns 1 through 6
+
+   -4.0000   -3.5000   -2.0000         0    1.0000    3.5000
+
+  Column 7
+
+    4.0000
+
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    1.7165    0.6596    0.3716    0.5201    1.3280
+
+  Columns 7 through 12
+
+    2.6121    2.1253    0.8646    0.4021    0.4321    1.0044
+
+  Column 13
+
+    2.3253
+
+
+z =
+
+  Columns 1 through 6
+
+    0.5780    0.4340    0.7489    2.4743    1.7683    0.4256
+
+  Column 7
+
+    0.5942
+
+ex12
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    1.7165    0.6596    0.3716    0.5201    1.3280
+
+  Columns 7 through 12
+
+    2.6121    2.1253    0.8646    0.4021    0.4321    1.0044
+
+  Column 13
+
+    2.3253
+
+
+z =
+
+  Columns 1 through 6
+
+    2.7183    2.6181    2.5179    2.4178    2.3176    2.2174
+
+  Columns 7 through 12
+
+    2.1172    2.0171    1.9169    1.8167    1.7165    1.6108
+
+  Columns 13 through 18
+
+    1.5051    1.3994    1.2937    1.1881    1.0824    0.9767
+
+  Columns 19 through 24
+
+    0.8710    0.7653    0.6596    0.6308    0.6020    0.5732
+
+  Columns 25 through 30
+
+    0.5444    0.5156    0.4868    0.4580    0.4292    0.4004
+
+  Columns 31 through 36
+
+    0.3716    0.3864    0.4013    0.4161    0.4310    0.4459
+
+  Columns 37 through 42
+
+    0.4607    0.4756    0.4904    0.5053    0.5201    0.6009
+
+  Columns 43 through 48
+
+    0.6817    0.7625    0.8433    0.9241    1.0048    1.0856
+
+  Columns 49 through 54
+
+    1.1664    1.2472    1.3280    1.4564    1.5848    1.7132
+
+  Columns 55 through 60
+
+    1.8416    1.9701    2.0985    2.2269    2.3553    2.4837
+
+  Columns 61 through 66
+
+    2.6121    2.5635    2.5148    2.4661    2.4174    2.3687
+
+  Columns 67 through 72
+
+    2.3200    2.2713    2.2227    2.1740    2.1253    1.9992
+
+  Columns 73 through 78
+
+    1.8731    1.7471    1.6210    1.4949    1.3689    1.2428
+
+  Columns 79 through 84
+
+    1.1167    0.9907    0.8646    0.8183    0.7721    0.7258
+
+  Columns 85 through 90
+
+    0.6796    0.6333    0.5871    0.5408    0.4946    0.4483
+
+  Columns 91 through 96
+
+    0.4021    0.4051    0.4081    0.4111    0.4141    0.4171
+
+  Columns 97 through 102
+
+    0.4201    0.4231    0.4261    0.4291    0.4321    0.4893
+
+  Columns 103 through 108
+
+    0.5466    0.6038    0.6610    0.7183    0.7755    0.8327
+
+  Columns 109 through 114
+
+    0.8900    0.9472    1.0044    1.1365    1.2686    1.4007
+
+  Columns 115 through 120
+
+    1.5328    1.6649    1.7970    1.9290    2.0611    2.1932
+
+  Columns 121 through 126
+
+    2.3253       NaN       NaN       NaN       NaN       NaN
+
+ex12
+
+y =
+
+  Columns 1 through 6
+
+    2.7183    1.7165    0.6596    0.3716    0.5201    1.3280
+
+  Columns 7 through 12
+
+    2.6121    2.1253    0.8646    0.4021    0.4321    1.0044
+
+  Column 13
+
+    2.3253
+
+
+z =
+
+  Columns 1 through 6
+
+    2.7183    2.6181    2.5179    2.4178    2.3176    2.2174
+
+  Columns 7 through 12
+
+    2.1172    2.0171    1.9169    1.8167    1.7165    1.6108
+
+  Columns 13 through 18
+
+    1.5051    1.3994    1.2937    1.1881    1.0824    0.9767
+
+  Columns 19 through 24
+
+    0.8710    0.7653    0.6596    0.6308    0.6020    0.5732
+
+  Columns 25 through 30
+
+    0.5444    0.5156    0.4868    0.4580    0.4292    0.4004
+
+  Columns 31 through 36
+
+    0.3716    0.3864    0.4013    0.4161    0.4310    0.4459
+
+  Columns 37 through 42
+
+    0.4607    0.4756    0.4904    0.5053    0.5201    0.6009
+
+  Columns 43 through 48
+
+    0.6817    0.7625    0.8433    0.9241    1.0048    1.0856
+
+  Columns 49 through 54
+
+    1.1664    1.2472    1.3280    1.4564    1.5848    1.7132
+
+  Columns 55 through 60
+
+    1.8416    1.9701    2.0985    2.2269    2.3553    2.4837
+
+  Columns 61 through 66
+
+    2.6121    2.5635    2.5148    2.4661    2.4174    2.3687
+
+  Columns 67 through 72
+
+    2.3200    2.2713    2.2227    2.1740    2.1253    1.9992
+
+  Columns 73 through 78
+
+    1.8731    1.7471    1.6210    1.4949    1.3689    1.2428
+
+  Columns 79 through 84
+
+    1.1167    0.9907    0.8646    0.8183    0.7721    0.7258
+
+  Columns 85 through 90
+
+    0.6796    0.6333    0.5871    0.5408    0.4946    0.4483
+
+  Columns 91 through 96
+
+    0.4021    0.4051    0.4081    0.4111    0.4141    0.4171
+
+  Columns 97 through 102
+
+    0.4201    0.4231    0.4261    0.4291    0.4321    0.4893
+
+  Columns 103 through 108
+
+    0.5466    0.6038    0.6610    0.7183    0.7755    0.8327
+
+  Columns 109 through 114
+
+    0.8900    0.9472    1.0044    1.1365    1.2686    1.4007
+
+  Columns 115 through 120
+
+    1.5328    1.6649    1.7970    1.9290    2.0611    2.1932
+
+  Columns 121 through 126
+
+    2.3253       NaN       NaN       NaN       NaN       NaN
+
+ex13
+
+y =
+
+    -3     4     5    -2     7     0     3    -1     8
+
+
+xi =
+
+  Columns 1 through 6
+
+   -2.0000   -1.5000         0    1.5000    2.0000    3.5000
+
+  Columns 7 through 8
+
+    4.5000    6.0000
+
+
+z =
+
+  Columns 1 through 6
+
+   -3.0000    0.3518    5.0000    2.6297    7.0000    0.9180
+
+  Columns 7 through 8
+
+    1.5273    8.0000
+
+ex13
+
+y =
+
+    -3     4     5    -2     7     0     3    -1     8
+
+
+z =
+
+  Columns 1 through 6
+
+   -3.0000   -2.4396   -1.8098   -1.1250   -0.3997    0.3518
+
+  Columns 7 through 12
+
+    1.1153    1.8761    2.6201    3.3329    4.0000    4.6071
+
+  Columns 13 through 18
+
+    5.1399    5.5839    5.9247    6.1482    6.2397    6.1850
+
+  Columns 19 through 24
+
+    5.9698    5.5796    5.0000    4.2291    3.3144    2.3156
+
+  Columns 25 through 30
+
+    1.2927    0.3055   -0.5861   -1.3223   -1.8433   -2.0891
+
+  Columns 31 through 36
+
+   -2.0000   -1.5395   -0.7653    0.2417    1.4004    2.6297
+
+  Columns 37 through 42
+
+    3.8487    4.9762    5.9313    6.6329    7.0000    6.9770
+
+  Columns 43 through 48
+
+    6.6108    5.9736    5.1378    4.1756    3.1593    2.1613
+
+  Columns 49 through 54
+
+    1.2539    0.5094         0   -0.2226   -0.1899    0.0458
+
+  Columns 55 through 60
+
+    0.4326    0.9180    1.4501    1.9764    2.4450    2.8036
+
+  Columns 61 through 66
+
+    3.0000    2.9965    2.8130    2.4840    2.0440    1.5273
+
+  Columns 67 through 72
+
+    0.9685    0.4019   -0.1380   -0.6168   -1.0000   -1.2532
+
+  Columns 73 through 78
+
+   -1.3420   -1.2319   -0.8885   -0.2773    0.6360    1.8860
+
+  Columns 79 through 81
+
+    3.5070    5.5335    8.0000
+
+ex13
+
+y =
+
+    -3     4     5    -2     7     0     3    -1     8
+
+
+z =
+
+  Columns 1 through 6
+
+   -3.0000   -2.4396   -1.8098   -1.1250   -0.3997    0.3518
+
+  Columns 7 through 12
+
+    1.1153    1.8761    2.6201    3.3329    4.0000    4.6071
+
+  Columns 13 through 18
+
+    5.1399    5.5839    5.9247    6.1482    6.2397    6.1850
+
+  Columns 19 through 24
+
+    5.9698    5.5796    5.0000    4.2291    3.3144    2.3156
+
+  Columns 25 through 30
+
+    1.2927    0.3055   -0.5861   -1.3223   -1.8433   -2.0891
+
+  Columns 31 through 36
+
+   -2.0000   -1.5395   -0.7653    0.2417    1.4004    2.6297
+
+  Columns 37 through 42
+
+    3.8487    4.9762    5.9313    6.6329    7.0000    6.9770
+
+  Columns 43 through 48
+
+    6.6108    5.9736    5.1378    4.1756    3.1593    2.1613
+
+  Columns 49 through 54
+
+    1.2539    0.5094         0   -0.2226   -0.1899    0.0458
+
+  Columns 55 through 60
+
+    0.4326    0.9180    1.4501    1.9764    2.4450    2.8036
+
+  Columns 61 through 66
+
+    3.0000    2.9965    2.8130    2.4840    2.0440    1.5273
+
+  Columns 67 through 72
+
+    0.9685    0.4019   -0.1380   -0.6168   -1.0000   -1.2532
+
+  Columns 73 through 78
+
+   -1.3420   -1.2319   -0.8885   -0.2773    0.6360    1.8860
+
+  Columns 79 through 81
+
+    3.5070    5.5335    8.0000
+
+ex14
+
+xi =
+
+    -2    -1     0     1     2     3     4
+
+
+yi =
+
+  Columns 1 through 6
+
+    1.4400    1.6900    1.3700    1.4600    1.7700    2.0100
+
+  Column 7
+
+    1.8800
+
+
+c =
+
+    0.4500    1.4333
+
+ex14
+
+xi =
+
+    -2    -1     0     1     2     3     4
+
+
+yi =
+
+  Columns 1 through 6
+
+    1.4400    1.6900    1.3700    1.4600    1.7700    2.0100
+
+  Column 7
+
+    1.8800
+
+
+c =
+
+    0.4500    1.4333
+
+
+A =
+
+  Columns 1 through 10
+
+     1     1     1     1     1     1     1     1     1    -2
+
+  Columns 11 through 20
+
+    -1     0     1     2     3     4     5     6     4     1
+
+  Columns 21 through 27
+
+     0     1     4     9    16    25    36
+
+
+X =
+
+  Columns 1 through 6
+
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+         0         0         0         0         0         0
+   -0.0833    0.1111    0.1389   -0.0556    0.1944         0
+
+  Columns 7 through 9
+
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+         0         0         0
+    0.0833   -0.0278    0.2222
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Inner matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex14', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex14.m', 15)" style="font-weight:bold">ex14</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex14.m',15,0)">line 15</a>)
+ Y=[ones(size(T)) T T.^2]*X;
+} 
+ex14
+{Error: <a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex14.m',15,18)">File: ex14.m Line: 15 Column: 18
+</a>Unexpected MATLAB expression.
+} 
+ex14
+
+xi =
+
+    -2    -1     0     1     2     3     4
+
+
+yi =
+
+  Columns 1 through 6
+
+    1.4400    1.6900    1.3700    1.4600    1.7700    2.0100
+
+  Column 7
+
+    1.8800
+
+
+c =
+
+    0.4500    1.4333
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Inner matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex14', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex14.m', 15)" style="font-weight:bold">ex14</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex14.m',15,0)">line 15</a>)
+ Y=[ones(size(T)) T T.^2]*X;
+} 
+ex14
+
+xi =
+
+    -2    -1     0     1     2     3     4
+
+
+yi =
+
+  Columns 1 through 6
+
+    1.4400    1.6900    1.3700    1.4600    1.7700    2.0100
+
+  Column 7
+
+    1.8800
+
+
+c =
+
+    0.4500    1.4333
+
+ex14
+
+xi =
+
+    -2    -1     0     1     2     3     4
+
+
+yi =
+
+  Columns 1 through 6
+
+    1.4400    1.6900    1.3700    1.4600    1.7700    2.0100
+
+  Column 7
+
+    1.8800
+
+
+c =
+
+    0.4500    1.4333
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('times')" style="font-weight:bold"> .* </a>
+Matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex14', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex14.m', 15)" style="font-weight:bold">ex14</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex14.m',15,0)">line 15</a>)
+ Y=[ones(size(T)) T T.^2].*X;
+} 
+ex14
+
+xi =
+
+    -2    -1     0     1     2     3     4
+
+
+yi =
+
+  Columns 1 through 6
+
+    1.4400    1.6900    1.3700    1.4600    1.7700    2.0100
+
+  Column 7
+
+    1.8800
+
+
+c =
+
+    0.4500    1.4333
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('mtimes')" style="font-weight:bold"> * </a>
+Inner matrix dimensions must agree.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ex14', 'C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex14.m', 15)" style="font-weight:bold">ex14</a> (<a href="matlab: opentoline('C:\Users\sorin\OneDrive\Desktop\an2\sem1\Metode numerice\lab12\ex14.m',15,0)">line 15</a>)
+ Y=[ones(size(T)) T T.^2]*X;
+} 
+ex15
+
+xi =
+
+    1.5000    3.0000    4.5000   10.0000   15.0000   25.0000
+
+
+yi =
+
+    0.5500    5.7800   17.5700   35.4100   67.5600   95.3800
+
+
+c =
+
+   -0.0553    5.5882   -8.8635
+
